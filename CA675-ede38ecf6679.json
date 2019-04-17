@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ca675-233821",
+  "private_key_id": "ede38ecf6679710835a0ca462da4a10114285015",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH048acfiSYrAK\nm+i3m+6i6IJlEEF9orb5zNhRTyJ7TI0XGeFhruETo4ilXIEy8uiIyppUty5yIuk8\nk+eXgM9YwGShMf+v5TFPIZARjUyBi9BwHjIkSsAOrUbP6wvZjoE8FJYYm9lVIXfb\nAFqIZrqbwdNewUqt6JjPr1Kjotk3lISFNhA3FzXuQEPZ1j6+0MsccHvArGHh+Tpj\n120QSfiz2CEGRvI07xBr4r0Yo3OlmiL4j2T9qugcKn1donp2CcxLSY982DkWbfzl\n6RqOlxZqcN0nMTgrWS8e9r4j3KjiFVUdL3qXFM6hkkR/fAQikx+WgRX4aQHz0FLr\ncXG6qHD9AgMBAAECggEALQ2/0uJV/WlXUDkJThaQBjZ+qdsxrOo6L5W2QxTgzSR8\nHjSFWrEjibpCJah2794RPEBT7hxUEkNZS4F8gq318giE18xOXiICjVkforl1QbMc\nlp7URtb8uQJr+BaCeDWXYUyx78/5vyY54AyTHPRuiA46Qj+5/v51r8PTkdX2fD9v\n6PjSMMKDwBhb91kXksXydtecLjx0+crlWaP2SrJXzz3FdIC7NDmnvcVD4mxHd2Ec\nWixWxZKvqcqB6Xf+RGql15+nEFYVZSW0NS/VGS0O89wBwCcBogt+jtlTwDtXi0U2\nivfL03a1JcpEGRSE/YAE3NBKFzwIAl2PMT37NCi8wQKBgQDiQ6J8dFXEvr+6hVZZ\ncsJjQ+3sxlM7kXs+jfoOgZz6jwbly25aTSlff3aJnpIBalAz+WvwkuxB5Y+yjlY5\nd45BZiwREP7Cp0zIdFzh7se91POvp+8uGw0iczSyG7UxHOpjC09/05knTkOKG+qr\nDtCoJDnoTZwCNPlIZ+jhW8n2vQKBgQDiFnV+YVQmoSGVzg0tzPacHoT5lzCitWm9\nwBKwQ5qQJTJyoF9L+XsdpOZz9SSP4pU8ySZxvMi8rzFr+haSgp5GX7QQIlzM2h6A\nFR4dgG1ZRQt/RwiXzt3bEmcMrRrWYFOvON0PO6hyG2n3D0z/zPTEn7ttWF2nsCfi\nIMtxsJInQQKBgFXU7GWjyAl7hsXd4PTLqNv5H9+LGHXnaUZAm5Q3LPKLoUU416Lf\n1IsKklAAXEi3KLeerYi0Y3VX/RvyDNl99fPvK1ZKCSqURndgVP/MEe98Qfjnjr8B\nugjQhTPveNupqWxrFPxbq6SSduKEVpAPba3rGCB8mGrp54rFCD29ES9NAoGARDuo\n/Bpdrkbk/vQv8Amyx81CLp2dlQ2ROy4ztbTBeg1v2z5hZGmH6Ztx3b83aKFmjvDa\nRGtIXgG1tbPFijQXln+dtVzZiw2tNNSqwRaYad+3p5MFmeNZ+5rjNOUte1OZDgHo\nXYeQv9dcNK8OewkdOhZHF6oaodg9QTbKj6ZNhcECgYEAulfUcRmtHGKRMaR2Z3li\nTQ3vzJTm55pGAZsoHLbAf0xFeaFdqXeHIcsC04NaPhI757xfRtvDKpYF8TDF2nKj\nPXF6ekXFEcfxccFcmDbagih1vW1ITCGnSKZFgLhcDUt+UYc2lsA4PuTJ1j7qIV8N\n1U/Yrbr1hSWZmHPPuDHPCt8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gitexpo@ca675-233821.iam.gserviceaccount.com",
+  "client_id": "108856020029655727822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gitexpo%40ca675-233821.iam.gserviceaccount.com"
+}
