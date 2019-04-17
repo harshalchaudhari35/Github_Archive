@@ -4,11 +4,12 @@ import dash_html_components as html
 import plotly.graph_objs as go
 import pandas as pd
 from queries import data1, data2, data3, data4, count, x_pos, language
-
+import flask
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+server = flask.Flask(__name__)
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets, server=server)
 
 ## Github-Repo-Sizes
 #data1 = pd.read_csv('')
